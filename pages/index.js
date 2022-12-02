@@ -21,22 +21,22 @@ export default function Index({ posts, globalData }) {
       </div>
 
       <div>
-        Później zostałem przeniesiony na dashboard, gdzie wybrałem opcję "Start from a template".
+        Później zostałem przeniesiony na dashboard, gdzie wybrałem opcję \"Start from a template\".
         <img src="../images/2.png"></img>
       </div>
       
       <div>
-        Następnie wybrałem Template "Bejamas Next.js Blog Starter" klikając w "Source code"
+        Następnie wybrałem Template \"Bejamas Next.js Blog Starter\" klikając w "Source code"
         <img src="../images/3.png"></img>
       </div>
 
       <div>
-        Teraz sklonowałem template do mojego repozytorium na GitHubie klikając w "GitHub" na dole.
+        Teraz sklonowałem template do mojego repozytorium na GitHubie klikając w \"GitHub\" na dole.
         <img src="../images/4.png"></img>
       </div>
 
       <div>
-        To jest czas na wypełnienie prostych ustawień. Po wpisaniu wszystkich klikamy w "Deploy".
+        To jest czas na wypełnienie prostych ustawień. Po wpisaniu wszystkich klikamy w \"Deploy\".
         <img src="../images/5.png"></img>
       </div>
 
