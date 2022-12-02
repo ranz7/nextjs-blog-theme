@@ -26,7 +26,7 @@ export default function Index({ posts, globalData }) {
       </div>
       
       <div>
-        Następnie wybrałem Template &quot;Bejamas Next.js Blog Starter&quot; klikając w "Source code"
+        Następnie wybrałem Template &quot;Bejamas Next.js Blog Starter&quot; klikając w &quot;Source code&quot;
         <img src="../images/3.png"></img>
       </div>
 
