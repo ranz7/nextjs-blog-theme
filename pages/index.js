@@ -8,6 +8,15 @@ import ArrowIcon from '../components/ArrowIcon';
 import { getGlobalData } from '../utils/global-data';
 import SEO from '../components/SEO';
 
+
+import one from 'images/1.png';
+import two from 'images/2.png';
+import three from 'images/3.png';
+import four from 'images/4.png';
+import five from 'images/5.png';
+import six from 'images/6.png';
+import seven from 'images/7.png';
+
 export default function Index({ posts, globalData }) {
   return (
     <Layout>
@@ -20,37 +29,72 @@ export default function Index({ posts, globalData }) {
 
         <div>
           Najpierw trzeba było się zarejestrować na Netlify. Ja wybrałem opcję rejestracji przez GitHub.
-          <img src="https://ibb.co/sVWwBgv"></img>
+          <Image
+            src={one}
+            alt="Picture of the author"
+            width="350px"
+            height="300px"
+          />
         </div>
 
         <div>
           Później zostałem przeniesiony na dashboard, gdzie wybrałem opcję &quot;Start from a template&quot;.
-          <img src="https://ibb.co/GHwRMXt"></img>
+          <Image
+            src={two}
+            alt="Picture of the author"
+            width="350px"
+            height="300px"
+          />
         </div>
         
         <div>
           Następnie wybrałem Template &quot;Bejamas Next.js Blog Starter&quot; klikając w &quot;Source code&quot;
-          <img src="https://ibb.co/5FgtH5z"></img>
+          <Image
+            src={three}
+            alt="Picture of the author"
+            width="350px"
+            height="300px"
+          />
         </div>
 
         <div>
           Teraz sklonowałem template do mojego repozytorium na GitHubie klikając w &quot;GitHub&quot; na dole.
-          <img src="https://ibb.co/bFGCCYm"></img>
+          <Image
+            src={four}
+            alt="Picture of the author"
+            width="350px"
+            height="300px"
+          />
         </div>
 
         <div>
           To jest czas na wypełnienie prostych ustawień. Po wpisaniu wszystkich klikamy w &quot;Deploy&quot;.
-          <img src="https://ibb.co/xH6khTg"></img>
+          <Image
+            src={five}
+            alt="Picture of the author"
+            width="350px"
+            height="300px"
+          />
         </div>
 
         <div>
           Wystarczy poczekać aż strona sama się postawi.
-          <img src="https://ibb.co/0VJdXGQ"></img>
+          <Image
+            src={six}
+            alt="Picture of the author"
+            width="350px"
+            height="300px"
+          />
         </div>
 
         <div>
           Strona już działa. Można na nią wejść z dowolnej maszyny podpiętej do internetu.
-          <img src="https://ibb.co/fC0F3LV"></img>
+          <Image
+            src={seven}
+            alt="Picture of the author"
+            width="350px"
+            height="300px"
+          />
         </div>
 
         <div>
