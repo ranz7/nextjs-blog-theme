@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { getPosts } from '../utils/mdx-utils';
-
+import Image from 'next/image'
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import Layout, { GradientBackground } from '../components/Layout';
