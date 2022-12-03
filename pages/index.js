@@ -34,8 +34,7 @@ export default function Index({ posts, globalData }) {
           <Image
             src={one}
             alt="Picture of the author"
-            width="350px"
-            height="300px"
+            width="672px"
           />
         </div>
 
@@ -46,8 +45,7 @@ export default function Index({ posts, globalData }) {
           <Image
             src={two}
             alt="Picture of the author"
-            width="350px"
-            height="300px"
+            width="672px"
           />
         </div>
         
@@ -58,8 +56,7 @@ export default function Index({ posts, globalData }) {
           <Image
             src={three}
             alt="Picture of the author"
-            width="350px"
-            height="300px"
+            width="672px"
           />
         </div>
 
@@ -70,8 +67,7 @@ export default function Index({ posts, globalData }) {
           <Image
             src={four}
             alt="Picture of the author"
-            width="350px"
-            height="300px"
+            width="672px"
           />
         </div>
 
@@ -82,8 +78,7 @@ export default function Index({ posts, globalData }) {
           <Image
             src={five}
             alt="Picture of the author"
-            width="350px"
-            height="300px"
+            width="672px"
           />
         </div>
 
@@ -94,8 +89,7 @@ export default function Index({ posts, globalData }) {
           <Image
             src={six}
             alt="Picture of the author"
-            width="350px"
-            height="300px"
+            width="672px"
           />
         </div>
 
@@ -106,8 +100,7 @@ export default function Index({ posts, globalData }) {
           <Image
             src={seven}
             alt="Picture of the author"
-            width="350px"
-            height="300px"
+            width="672px"
           />
         </div>
 
