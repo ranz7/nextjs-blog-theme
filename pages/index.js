@@ -29,6 +29,8 @@ export default function Index({ posts, globalData }) {
 
         <div>
           Najpierw trzeba było się zarejestrować na Netlify. Ja wybrałem opcję rejestracji przez GitHub.
+        </div>
+        <div>
           <Image
             src={one}
             alt="Picture of the author"
@@ -39,6 +41,8 @@ export default function Index({ posts, globalData }) {
 
         <div>
           Później zostałem przeniesiony na dashboard, gdzie wybrałem opcję &quot;Start from a template&quot;.
+        </div>
+        <div>
           <Image
             src={two}
             alt="Picture of the author"
@@ -49,6 +53,8 @@ export default function Index({ posts, globalData }) {
         
         <div>
           Następnie wybrałem Template &quot;Bejamas Next.js Blog Starter&quot; klikając w &quot;Source code&quot;
+        </div>
+        <div>
           <Image
             src={three}
             alt="Picture of the author"
@@ -59,6 +65,8 @@ export default function Index({ posts, globalData }) {
 
         <div>
           Teraz sklonowałem template do mojego repozytorium na GitHubie klikając w &quot;GitHub&quot; na dole.
+        </div>
+        <div>
           <Image
             src={four}
             alt="Picture of the author"
@@ -69,6 +77,8 @@ export default function Index({ posts, globalData }) {
 
         <div>
           To jest czas na wypełnienie prostych ustawień. Po wpisaniu wszystkich klikamy w &quot;Deploy&quot;.
+        </div>
+        <div>
           <Image
             src={five}
             alt="Picture of the author"
@@ -79,6 +89,8 @@ export default function Index({ posts, globalData }) {
 
         <div>
           Wystarczy poczekać aż strona sama się postawi.
+        </div>
+        <div>
           <Image
             src={six}
             alt="Picture of the author"
@@ -89,6 +101,8 @@ export default function Index({ posts, globalData }) {
 
         <div>
           Strona już działa. Można na nią wejść z dowolnej maszyny podpiętej do internetu.
+        </div>
+        <div>
           <Image
             src={seven}
             alt="Picture of the author"
